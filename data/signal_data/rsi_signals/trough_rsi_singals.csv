@@ -88,7 +88,7 @@ Date,XLB,XLI,XLF,XLK,XLY,XLP,XLE,XLV,VOX,XLU,IYR
 2009-02-04,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
 2009-02-05,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
 2009-02-06,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
-2009-02-09,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Sell,Hold,Hold,Hold
+2009-02-09,Hold,Hold,Hold,Sell,Hold,Hold,Hold,Sell,Hold,Sell,Hold
 2009-02-10,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
 2009-02-11,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
 2009-02-12,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
@@ -149,7 +149,7 @@ Date,XLB,XLI,XLF,XLK,XLY,XLP,XLE,XLV,VOX,XLU,IYR
 2009-05-04,Sell,Sell,Hold,Sell,Sell,Hold,Hold,Hold,Hold,Sell,Hold
 2009-05-05,Sell,Sell,Hold,Sell,Sell,Hold,Hold,Hold,Hold,Sell,Hold
 2009-05-06,Sell,Hold,Hold,Hold,Sell,Hold,Hold,Hold,Hold,Hold,Hold
-2009-05-07,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold
+2009-05-07,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Sell,Hold
 2009-05-08,Sell,Sell,Sell,Hold,Sell,Sell,Sell,Sell,Sell,Sell,Hold
 2009-05-11,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Hold,Sell,Sell,Hold
 2009-05-12,Hold,Hold,Hold,Hold,Hold,Sell,Sell,Sell,Sell,Sell,Hold
